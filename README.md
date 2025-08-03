@@ -1,5 +1,7 @@
 ## Hi, I'm Lev👋
-
+👋 Hi there! I'm a freelance developer specializing in script development.\n 
+🐍 Most of my work is done in Python and PHP.\n
+💡 Let me help automate your tasks or build custom solutions!\n
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ict_mentor) 
